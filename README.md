@@ -1,5 +1,18 @@
 # To Bee or Not To Bee
 
+## How to navigate this repo:
+### 01 - Data Cleaning and Feature Generation
+*All data cleaning, imputation, feature generation, and merging taks*
+
+### 02 - ML and Simulation Models
+*ML modelling and Simulation tasks*
+
+### 03 - Report and Documentation
+*Final report, presentation, and any supporting documentation*
+
+### 04 - Data
+*Cleaned datasets used for ML and Simulation models*
+
 **Our question**: To what extent do factors such as the usage of various pesticides, rainfall, temperature, and more impact the number of honeybee colonies as well as honey yield? In modeling honeybee colony decline, can we effectively predict and simulate honeybee production in a given state and/or region? 
 
 
