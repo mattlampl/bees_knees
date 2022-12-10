@@ -1,0 +1,133 @@
+,feature1,feature2,correlation
+5,year,priceperlb,0.7254853016329267
+126,numcol,totalprod,0.9513522729131677
+127,numcol,stocks,0.814008416010791
+129,numcol,prodvalue,0.9013485692422925
+265,yieldpercol,prevyearyield,0.7710618978107632
+370,totalprod,numcol,0.9513522729131677
+373,totalprod,stocks,0.872905215307229
+375,totalprod,prodvalue,0.895453701139721
+493,stocks,numcol,0.814008416010791
+495,stocks,totalprod,0.872905215307229
+498,stocks,prodvalue,0.7045400054644494
+615,priceperlb,year,0.7254853016329267
+739,prodvalue,numcol,0.9013485692422925
+741,prodvalue,totalprod,0.895453701139721
+742,prodvalue,stocks,0.7045400054644494
+870,nCLOTHIANIDIN,nTHIAMETHOXAM,0.7435586969071992
+873,nCLOTHIANIDIN,nAllNeonic,0.9218889680790581
+874,nCLOTHIANIDIN,prevyear_nCLOTHIANIDIN,0.723519050908169
+996,nIMIDACLOPRID,nAllNeonic,0.7822243124209942
+998,nIMIDACLOPRID,prevyear_nIMIDACLOPRID,0.779747564415575
+1114,nTHIAMETHOXAM,nCLOTHIANIDIN,0.7435586969071992
+1119,nTHIAMETHOXAM,nAllNeonic,0.8309923768792793
+1122,nTHIAMETHOXAM,prevyear_nTHIAMETHOXAM,0.7891433030101495
+1246,nACETAMIPRID,prevyear_nACETAMIPRID,0.7554615766845622
+1297,nACETAMIPRID,5 Year Avg Max AQI,0.7391198143833635
+1370,nTHIACLOPRID,prevyear_nTHIACLOPRID,0.7849209774180071
+1483,nAllNeonic,nCLOTHIANIDIN,0.9218889680790581
+1484,nAllNeonic,nIMIDACLOPRID,0.7822243124209942
+1485,nAllNeonic,nTHIAMETHOXAM,0.8309923768792793
+1606,prevyear_nCLOTHIANIDIN,nCLOTHIANIDIN,0.723519050908169
+1614,prevyear_nCLOTHIANIDIN,prevyear_nTHIAMETHOXAM,0.7432177154389398
+1730,prevyear_nIMIDACLOPRID,nIMIDACLOPRID,0.779747564415575
+1854,prevyear_nTHIAMETHOXAM,nTHIAMETHOXAM,0.7891433030101495
+1858,prevyear_nTHIAMETHOXAM,prevyear_nCLOTHIANIDIN,0.7432177154389398
+1978,prevyear_nACETAMIPRID,nACETAMIPRID,0.7554615766845622
+2102,prevyear_nTHIACLOPRID,nTHIACLOPRID,0.7849209774180071
+2339,prevyearyield,yieldpercol,0.7710618978107632
+2581,avg_temp,Region_South,0.744423383553475
+3729,dwv-b_max,dwv-b_prob,0.9635826920559242
+4341,iapv_prob,kbv_prob,0.7652729824469051
+4463,kbv_prob,iapv_prob,0.7652729824469051
+4827,dwv-b_prob,dwv-b_max,0.9635826920559242
+5581,Prev Days with AQI,Prev Good Days,0.8057588213480664
+5595,Prev Days with AQI,5 Year Avg Days with AQI,0.9474412679644658
+5596,Prev Days with AQI,5 Year Avg Good Days,0.778732374010307
+5703,Prev Good Days,Prev Days with AQI,0.8057588213480664
+5718,Prev Good Days,5 Year Avg Days with AQI,0.7608788285862341
+5719,Prev Good Days,5 Year Avg Good Days,0.9442344750803243
+5835,Prev Moderate Days,Prev Median AQI,0.8002443325178986
+5843,Prev Moderate Days,5 Year Avg Moderate Days,0.9040673882763145
+5850,Prev Moderate Days,5 Year Avg Median AQI,0.7380585675757383
+5953,Prev Unhealthy for Sensitive Groups Days,Prev Unhealthy Days,0.8401198011719062
+5957,Prev Unhealthy for Sensitive Groups Days,Prev 90th Percentile AQI,0.8960182218826608
+5967,Prev Unhealthy for Sensitive Groups Days,5 Year Avg Unhealthy for Sensitive Groups Days,0.917285649978208
+5968,Prev Unhealthy for Sensitive Groups Days,5 Year Avg Unhealthy Days,0.8439749949417722
+5972,Prev Unhealthy for Sensitive Groups Days,5 Year Avg 90th Percentile AQI,0.8026472977695929
+6075,Prev Unhealthy Days,Prev Unhealthy for Sensitive Groups Days,0.8401198011719062
+6077,Prev Unhealthy Days,Prev Very Unhealthy Days,0.8281258106909299
+6080,Prev Unhealthy Days,Prev 90th Percentile AQI,0.7537890473364197
+6090,Prev Unhealthy Days,5 Year Avg Unhealthy for Sensitive Groups Days,0.7757416738840992
+6091,Prev Unhealthy Days,5 Year Avg Unhealthy Days,0.9158279751420062
+6092,Prev Unhealthy Days,5 Year Avg Very Unhealthy Days,0.8076746459834251
+6199,Prev Very Unhealthy Days,Prev Unhealthy Days,0.8281258106909299
+6214,Prev Very Unhealthy Days,5 Year Avg Unhealthy Days,0.7671959994746806
+6215,Prev Very Unhealthy Days,5 Year Avg Very Unhealthy Days,0.8746557841213722
+6339,Prev Hazardous Days,5 Year Avg Hazardous Days,0.7434352763393348
+6463,Prev Max AQI,5 Year Avg Max AQI,0.8494804996067705
+6474,Prev Max AQI,StateName_California,0.8047984744041119
+6567,Prev 90th Percentile AQI,Prev Unhealthy for Sensitive Groups Days,0.8960182218826608
+6568,Prev 90th Percentile AQI,Prev Unhealthy Days,0.7537890473364197
+6573,Prev 90th Percentile AQI,Prev Median AQI,0.8118801624595041
+6582,Prev 90th Percentile AQI,5 Year Avg Unhealthy for Sensitive Groups Days,0.8704640718556831
+6583,Prev 90th Percentile AQI,5 Year Avg Unhealthy Days,0.773497330202286
+6587,Prev 90th Percentile AQI,5 Year Avg 90th Percentile AQI,0.9333126225376145
+6588,Prev 90th Percentile AQI,5 Year Avg Median AQI,0.7325584029188045
+6689,Prev Median AQI,Prev Moderate Days,0.8002443325178986
+6695,Prev Median AQI,Prev 90th Percentile AQI,0.8118801624595041
+6704,Prev Median AQI,5 Year Avg Moderate Days,0.7633703129548097
+6710,Prev Median AQI,5 Year Avg 90th Percentile AQI,0.8282928818086809
+6711,Prev Median AQI,5 Year Avg Median AQI,0.9500508830918467
+6835,Prev Days CO,5 Year Avg Days CO,0.9278764650422375
+6959,Prev Days NO2,5 Year Avg Days NO2,0.9560184061837029
+7083,Prev Days Ozone,5 Year Avg Days Ozone,0.9622570291891867
+7207,Prev Days PM2.5,5 Year Avg Days PM2.5,0.9449377328923889
+7331,Prev Days PM10,5 Year Avg Days PM10,0.949014912651889
+7425,5 Year Avg Days with AQI,Prev Days with AQI,0.9474412679644658
+7426,5 Year Avg Days with AQI,Prev Good Days,0.7608788285862341
+7441,5 Year Avg Days with AQI,5 Year Avg Good Days,0.810956127722657
+7548,5 Year Avg Good Days,Prev Days with AQI,0.778732374010307
+7549,5 Year Avg Good Days,Prev Good Days,0.9442344750803243
+7563,5 Year Avg Good Days,5 Year Avg Days with AQI,0.810956127722657
+7673,5 Year Avg Moderate Days,Prev Moderate Days,0.9040673882763145
+7680,5 Year Avg Moderate Days,Prev Median AQI,0.7633703129548097
+7695,5 Year Avg Moderate Days,5 Year Avg Median AQI,0.8126432502044686
+7797,5 Year Avg Unhealthy for Sensitive Groups Days,Prev Unhealthy for Sensitive Groups Days,0.917285649978208
+7798,5 Year Avg Unhealthy for Sensitive Groups Days,Prev Unhealthy Days,0.7757416738840992
+7802,5 Year Avg Unhealthy for Sensitive Groups Days,Prev 90th Percentile AQI,0.8704640718556831
+7813,5 Year Avg Unhealthy for Sensitive Groups Days,5 Year Avg Unhealthy Days,0.8844508739654734
+7817,5 Year Avg Unhealthy for Sensitive Groups Days,5 Year Avg 90th Percentile AQI,0.9059669360817598
+7920,5 Year Avg Unhealthy Days,Prev Unhealthy for Sensitive Groups Days,0.8439749949417722
+7921,5 Year Avg Unhealthy Days,Prev Unhealthy Days,0.9158279751420062
+7922,5 Year Avg Unhealthy Days,Prev Very Unhealthy Days,0.7671959994746806
+7925,5 Year Avg Unhealthy Days,Prev 90th Percentile AQI,0.773497330202286
+7935,5 Year Avg Unhealthy Days,5 Year Avg Unhealthy for Sensitive Groups Days,0.8844508739654734
+7937,5 Year Avg Unhealthy Days,5 Year Avg Very Unhealthy Days,0.8707094530178181
+7940,5 Year Avg Unhealthy Days,5 Year Avg 90th Percentile AQI,0.7866716823948869
+8044,5 Year Avg Very Unhealthy Days,Prev Unhealthy Days,0.8076746459834251
+8045,5 Year Avg Very Unhealthy Days,Prev Very Unhealthy Days,0.8746557841213722
+8059,5 Year Avg Very Unhealthy Days,5 Year Avg Unhealthy Days,0.8707094530178181
+8169,5 Year Avg Hazardous Days,Prev Hazardous Days,0.7434352763393348
+8251,5 Year Avg Max AQI,nACETAMIPRID,0.7391198143833635
+8293,5 Year Avg Max AQI,Prev Max AQI,0.8494804996067705
+8319,5 Year Avg Max AQI,StateName_California,0.9228445482452151
+8412,5 Year Avg 90th Percentile AQI,Prev Unhealthy for Sensitive Groups Days,0.8026472977695929
+8417,5 Year Avg 90th Percentile AQI,Prev 90th Percentile AQI,0.9333126225376145
+8418,5 Year Avg 90th Percentile AQI,Prev Median AQI,0.8282928818086809
+8427,5 Year Avg 90th Percentile AQI,5 Year Avg Unhealthy for Sensitive Groups Days,0.9059669360817598
+8428,5 Year Avg 90th Percentile AQI,5 Year Avg Unhealthy Days,0.7866716823948869
+8433,5 Year Avg 90th Percentile AQI,5 Year Avg Median AQI,0.8332980141633425
+8534,5 Year Avg Median AQI,Prev Moderate Days,0.7380585675757383
+8540,5 Year Avg Median AQI,Prev 90th Percentile AQI,0.7325584029188045
+8541,5 Year Avg Median AQI,Prev Median AQI,0.9500508830918467
+8549,5 Year Avg Median AQI,5 Year Avg Moderate Days,0.8126432502044686
+8555,5 Year Avg Median AQI,5 Year Avg 90th Percentile AQI,0.8332980141633425
+8665,5 Year Avg Days CO,Prev Days CO,0.9278764650422375
+8789,5 Year Avg Days NO2,Prev Days NO2,0.9560184061837029
+8913,5 Year Avg Days Ozone,Prev Days Ozone,0.9622570291891867
+9037,5 Year Avg Days PM2.5,Prev Days PM2.5,0.9449377328923889
+9161,5 Year Avg Days PM10,Prev Days PM10,0.949014912651889
+9646,StateName_California,Prev Max AQI,0.8047984744041119
+9661,StateName_California,5 Year Avg Max AQI,0.9228445482452151
+14903,Region_South,avg_temp,0.744423383553475

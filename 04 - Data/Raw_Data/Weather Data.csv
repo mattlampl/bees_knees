@@ -1,0 +1,374 @@
+State,Element,Value,Units,BegDate,EndDate,Location,Station ID,Status,Notes
+"Alabama","All-Time Maximum Temperature",112,"degrees F",19250906,19250906,"Centerville",011520,E,
+"Alabama","All-Time Minimum Temperature",-27,"degrees F",19660130,19660130,"New Market",015867,E,
+"Alabama","All-Time Greatest 24-Hour Precipitation",32.52,"inches",19970719,19970720,"Dauphin Island Sea Lab",012172,EA,"Although higher amounts have been observed in other states, the 32.52 inches of rainfall that was observed in 24-hrs over July 19-20, 1997 at Dauphin Island Sea Lab in conjunction with Hurricane Danny is the greatest 24-hr rainfall that has been directly observed at an officially established observation station within the coterminous United States."
+"Alabama","All-Time Maximum 24-Hour Snowfall",20,"inches",19930313,19930313,"Walunt Grove",018648,N,
+"Alabama","All-Time Maximum Snow Depth",22,"inches",19400124,19400124,"Reform",016847,N,
+"Alabama","Hail: Weight",0.6125,"pounds",20180319,20180319,"Walter",N/A,NSA,""
+"Alabama","Hail: Circumference",13.75,"inches",20180319,20180319,"Walter",N/A,NSA,""
+"Alabama","Hail: Diameter",5.38,"inches",20180319,20180319,"Walter",N/A,NSA,""
+"Alabama","Hail: Volume",19.8,"cubic inches",20180319,20180319,"Walter",N/A,NSA,""
+"Alaska","All-Time Maximum Temperature",100,"degrees F",19150627,19150627,"Fort Yukon",26413,E,
+"Alaska","All-Time Minimum Temperature",-80,"degrees F",19710123,19710123,"Prospect Creek Camp",507778,E,
+"Alaska","All-Time Greatest 24-Hour Precipitation",15.05,"inches",19861010,19861010,"Seward",26438,N,"The previously-listed state record of 15.2 inches at Angoon on October 12, 1982 was determined to be invalid by the SCEC, based largely on analysis that resulted in this Bulletin of the American Meteorological Society article."
+"Alaska","All-Time Maximum 24-Hour Snowfall",78,"inches",19630209,19630209,"Mile 47 Camp",505878,N,
+"Alaska","All-Time Maximum Snow Depth",192,"inches",20080411,20080411,"Valdez Municipal Airport",509685,N1,
+"Alaska","All-Time Maximum Snow Depth",192,"inches",20080307,20080307,"Valdez Municipal Airport",509685,N1,
+"Arizona","All-Time Maximum Temperature",128,"degrees F",19940629,19940629,"Lake Havasu City",024761,E,
+"Arizona","All-Time Minimum Temperature",-40,"degrees F",19710107,19710107,"Hawley Lake",023926,E,
+"Arizona","All-Time Greatest 24-Hour Precipitation",11.4,"inches",19700904,19700905,"Workman Creek",029534,E,
+"Arizona","All-Time Maximum 24-Hour Snowfall",38,"inches",19870225,19870225,"Alpine",020170,N1,
+"Arizona","All-Time Maximum 24-Hour Snowfall",38,"inches",19671214,19671214,"Heber Ranger Stn",023961,N1,
+"Arizona","All-Time Maximum Snow Depth",91,"inches",19671221,19671221,"Hawley Lake",023926,N,
+"Arkansas","All-Time Maximum Temperature",120,"degrees F",19360810,19360810,"Ozark",035508,E,
+"Arkansas","All-Time Minimum Temperature",-29,"degrees F",19050213,19050213,"Brook Farm Pond (near Gravette)",032930,E,
+"Arkansas","All-Time Greatest 24-Hour Precipitation",14.06,"inches",19821203,19821203,"Big Fork",030664,E,
+"Arkansas","Maximum Annual Precipitation Total",101.05,"inches",20150101,20151231,"Big Fork 1 SSE",030664,NA,"This value exceeds the previous record of 100.05 inches at Leola (GHCN-Daily ID USC00034134; COOP ID 034134) from July 1, 2008 through June 30, 2009. The previous record was established by an ad hoc SCEC convened in February 2010, and replaced, in turn the previous record of 98.55 inches observed in New Hope in 1957."
+"Arkansas","All-Time Maximum 24-Hour Snowfall",25,"inches",19180122,19180122,"Corning",031632,N,
+"Arkansas","All-Time Maximum Snow Depth",26,"inches",19180122,19180122,"Calico Rock 2WSW",031132,N,
+"California","All-Time Maximum Temperature",134,"degrees F",19130710,19130710,"Greenland Ranch",043603,E,
+"California","All-Time Minimum Temperature",-45,"degrees F",19370120,19370120,"Boca",040931,E,
+"California","All-Time Greatest 24-Hour Precipitation",25.83,"inches",19430122,19430123,"Hoegees Camp",044017,EA,"Hourly precipitation values for Hoegee's Campground (in the mountains outside Los Angeles) indicate the greatest 24-hour rainfall occurred between 1:00 AM on January 22nd to 1:00 AM on January 23rd. During that period, the storm delivered 25.83 inches (corrected from previous reports of 26.12 inches). A detailed post-storm report was produced by the Weather Bureau."
+"California","All-Time Maximum 24-Hour Snowfall",67,"inches",19820105,19820105,"Echo Summit Sierra at Tahoe",042671,N,
+"California","All-Time Maximum Snow Depth",451,"inches",19110311,19110311,"Tamarack",048781,E,
+"California","Maximum Wind Gust",199,"mph",20170220,20170220,"Alpine Summit (Ward Mt)",SUMAM (MesoWest),SA,
+"Colorado","All-Time Maximum Temperature",115,"degrees F",20190720,20190720,"John Martin Dam",054388,NA,"Replaces previous established record of 114 degrees F set at Las Animas on July 1, 1933 and tied at Sedgwick on July 11, 1954. Also, a 118 degrees F report that had persisted in the record books at Bennett, CO on July 11, 1888 was found to be a transcription error. Area temperatures were ~15-20 degrees cooler on that date.."
+"Colorado","All-Time Minimum Temperature",-61,"degrees F",19850201,19850201,"Maybell",055446,E,
+"Colorado","All-Time Greatest 24-Hour Precipitation",11.85,"inches",20130912,20130912,"USGS Rod & Gun (Ft. Carson)",USGS 384053104492001,NA,"Had a 9 AM to 9 AM observing period been used ending at 9 AM on September 13th, that the measurement would have been 12.46\". However, the SCEC chose to confirm the calendar-day value as the official record. In either case, the previously acknolwedged record of 11.08\" at Holly on June 17, 1965 was superseded."
+"Colorado","All-Time Maximum 24-Hour Snowfall",75.8,"inches",19210414,19210415,"Silver Lake",057648,E,
+"Colorado","All-Time Maximum Snow Depth",251,"inches",19790331,19790331,"Wolf Creek Pass 1E",059181,N,
+"Colorado","Hail: Weight",0.53125,"pounds",20190813,20190813,"8 mi NNW of Bethune",,SA,
+"Colorado","Hail: Circumference",12.875,"inches",20190813,20190813,"8 mi NNW of Bethune",,SA,
+"Colorado","Hail: Diameter",4.83,"inches",20190813,20190813,"8 mi NNW of Bethune",,SA,
+"Colorado","Hail: Volume",16.55,"cubic inches",20190813,20190813,"8 mi NNW of Bethune",,SA,
+"Colorado","Lowest Mean Sea Level Pressure",970.4,"hPa",20190313,20190313,"Lamar",USW00003013,NSA,"This was the initial mean sea level pressure record established for any state. The SCEC report therefore contains several additional methodological considerations for future MSLP committees. More details are available in the report associated with this investigation."
+"Connecticut","All-Time Maximum Temperature",106,"degrees F",19950715,19950715,"Danbury",061762,E1,
+"Connecticut","All-Time Maximum Temperature",106,"degrees F",19160823,19160823,"Torrington",068438,E1,
+"Connecticut","All-Time Minimum Temperature",-32,"degrees F",19610122,19610122,"Coventry",061689,E1,
+"Connecticut","All-Time Minimum Temperature",-32,"degrees F",19430216,19430216,"Falls Village",062658,E1,
+"Connecticut","All-Time Greatest 24-Hour Precipitation",12.77,"inches",19550819,19550819,"Burlington",060973,E,
+"Connecticut","All-Time Maximum 24-Hour Snowfall",36,"inches",20130208,20130209,"Ansonia 1NE",060128,NSA,"The 24-hr snowfall at Ansonia 1NE was the result of a powerful blizzard which impacted the Tri-State Region. After the storm subsided, many locations around the region reported more than 30 inches of snow. The State Climate Extremes Committee verified the validity of the observation at Ansonia."
+"Connecticut","All-Time Maximum Snow Depth",55,"inches",19610205,19610205,"Norfolk 2SW",065445,E,
+"Delaware","All-Time Maximum Temperature",110,"degrees F",19300721,19300721,"Millsboro",076020,E,
+"Delaware","All-Time Minimum Temperature",-17,"degrees F",18930117,18930117,"Millsboro",076020,E,
+"Delaware","All-Time Greatest 24-Hour Precipitation",12.48,"inches",20160928,20160929,"Harbeson",DEOS Mesonet Station DWAR (NWSLI WARD1),NSA,"The Harbeson value replaced the previously reported record of 8.5 inches, set at Dover on 13 July 1975. However, the SCEC reviewing the Harbeson record determined that the Dover record had actually been exceeded twice between 1975 and the Harbeson event, during Tropical Storms Floyd (1999) and Irene (2011). More details are available in the report associated with this investigation."
+"Delaware","All-Time Maximum 24-Hour Snowfall",25,"inches",19790219,19790219,"Dover",072730,E,
+"Delaware","All-Time Maximum Seasonal (July-June) Snowfall",72.7,"inches",20090701,20100630,"Bear 2SW",071200,NSA,""
+"Delaware","Monthly Maximum Snowfall",46.9,"inches",20100201,20100228,"Bear 2SW",071200,NSA,""
+"Delaware","All-Time Maximum Snow Depth",28,"inches",20100207,20100207,"Greenwood 2.9 SE",CoCoRaHS DE-SS-7,NSA,"The Greenwood value replaced the previously reported record of 25 inches, set at Wilmington New Castle CO AP (13781) on 18 February, 2003 and Bridgeville 1 NW (071330) on 19 February 1979. More details are available in the associated report."
+"Florida","All-Time Maximum Temperature",109,"degrees F",19310629,19310629,"Monticello",085879,E,
+"Florida","All-Time Minimum Temperature",-2,"degrees F",18990213,18990213,"Tallahassee",088754,E,
+"Florida","All-Time Greatest 24-Hour Precipitation",23.28,"inches",19801111,19801112,"Key West",12836,NA,"The previously reported extreme of 38.70 inches at Yankeetown on September 5, 1950 is an estimated depth of rainfall calculated as part of a post-storm survey of Hurricane Easy (Cedar Keys Hurricane). Value has historically been considered reasonably accurate (and even an underestimate of actual rain fall), but as an estimate cannot be considered an official observation from a reliable precipitation gauge."
+"Florida","All-Time Maximum 24-Hour Snowfall",4,"inches",19540306,19540306,"Milton Exp. Stn.",085793,E,
+"Florida","All-Time Maximum Snow Depth",4,"inches",19540306,19540306,"Milton Exp. Stn",085793,N,
+"Georgia","All-Time Maximum Temperature",112,"degrees F",19830820,19830820,"Greenville 2 NNW",093915,E1,
+"Georgia","All-Time Maximum Temperature",112,"degrees F",19520724,19520724,"Louisville",095314,E1,
+"Georgia","All-Time Minimum Temperature",-17,"degrees F",19400127,19400127,"CCC Fire Camp F-16 (nr. Beatum)",,EA,"Record of -17 degrees F at Civilian Conservation Corps Logging Camp F-16 is congruent with similar low temperatures observed in the area on January 27, 1940. This observation is archived as part of the National Archives CCC collection."
+"Georgia","All-Time Greatest 24-Hour Precipitation",21.1,"inches",19940706,19940706,"Americus",090253,E,
+"Georgia","All-Time Maximum 24-Hour Snowfall",19.3,"inches",19420303,19420303,"Cedartown 3NE",091732,E,
+"Georgia","All-Time Maximum Snow Depth",18,"inches",19930313,19930313,"Chatsworth 2",091863,N,
+"Hawaii","All-Time Maximum Temperature",100,"degrees F",19310427,19310427,"Pahala (Hawaii)",517421,E,
+"Hawaii","All-Time Minimum Temperature",12,"degrees F",19790517,19790517,"Mauna Kea Observatory (Hawaii)",516183,E,
+"Hawaii","All-Time Greatest 24-Hour Precipitation",49.69,"inches",20180414,20180415,"Waip&#257; Garden (Kauai)",,NA,"This value exceeded the previous record of 38 inches, observed at Kilauea Sugar Co. Plantation on 24-25 January 1956, which itself was an estimate. The 2018 value also became the national record for 24-hour precipitation. View the associated National Climate Extremes Committee report. The members of the SCEC deferred to the NCEC findings."
+"Hawaii","All-Time Maximum 24-Hour Snowfall",6.5,"inches",19360202,19360202,"Haleakali (Maui)",510992,N,
+"Hawaii","All-Time Maximum Snow Depth",5,"inches",19380406,19380406,"Haleakali (Maui)",510992,N,
+"Idaho","All-Time Maximum Temperature",118,"degrees F",19340728,19340728,"Orofino",106681,E,
+"Idaho","All-Time Minimum Temperature",-60,"degrees F",19430118,19430118,"Island Park Dam",104598,E,
+"Idaho","All-Time Greatest 24-Hour Precipitation",7.17,"inches",19091123,19091123,"Rattlesnake Creek",107545,E,
+"Idaho","All-Time Maximum 24-Hour Snowfall",31,"inches",19671218,19671218,"Anderson Dam",100282,N,
+"Idaho","All-Time Maximum Snow Depth",182,"inches",19540222,19540222,"Mullan Pass VOR/DME",24154,N1,
+"Idaho","All-Time Maximum Snow Depth",182,"inches",19540220,19540220,"Mullan Pass VOR/DME",24154,N1,
+"Illinois","All-Time Maximum Temperature",117,"degrees F",19540714,19540714,"East St. Louis",112614,E,
+"Illinois","All-Time Minimum Temperature",-38,"degrees F",20190131,20190131,"Mt. Carroll",115901,NS,"This value exceeded the previous record of -36 degrees F, observed at Congerville on 5 January 1999."
+"Illinois","All-Time Greatest 24-Hour Precipitation",16.91,"inches",19960718,19960718,"Aurora",110338,E,
+"Illinois","All-Time Maximum 24-Hour Snowfall",36,"inches",19000228,19000228,"Astoria",110291,N,
+"Illinois","All-Time Maximum Snow Depth",41,"inches",19790131,19790131,"Gebhard Woods St.Pk.",113369,N1,
+"Illinois","All-Time Maximum Snow Depth",41,"inches",19000228,19000228,"Astoria",110291,N1,
+"Illinois","Hail: Diameter",4.75,"inches",20150610,20150610,"2 mi NNW of Minooka",,SA,
+"Indiana","All-Time Maximum Temperature",116,"degrees F",19360714,19360714,"Collegeville (South side of Renssalaer)",121719,E,
+"Indiana","All-Time Minimum Temperature",-36,"degrees F",19940119,19940119,"New Whiteland",126304,E,
+"Indiana","All-Time Greatest 24-Hour Precipitation",10.5,"inches",19050806,19050806,"Princeton",127125,E,
+"Indiana","All-Time Maximum 24-Hour Snowfall",33,"inches",20041223,20041223,"Salem",127755,N,
+"Indiana","All-Time Maximum Snow Depth",47,"inches",19180128,19180128,"Hammond",123650,N,
+"Iowa","All-Time Maximum Temperature",118,"degrees F",19340720,19340720,"Keokuk No. 2",134372,EA,"The value of 118 degrees F is confirmed as a valid observation, but the station sits on a bluff above the river and the observation is characteristic more of the local microclimate than the area climate. If this value is in doubt, the next highest value is 117 degrees F on July 25, 1936 at both Logan and Atlantic."
+"Iowa","All-Time Minimum Temperature",-47,"degrees F",19960203,19960203,"Elkader",132603,E1,
+"Iowa","All-Time Minimum Temperature",-47,"degrees F",19120112,19120112,"Washta",138693,E1,
+"Iowa","All-Time Greatest 24-Hour Precipitation",13.18,"inches",19980614,19980614,"Atlantic 1NE",130364,NA,"Previously reported record of 16.70 inches in Decatur Co. on August 5-6, 1959 is likely valid, but was estimated from a post-event survey observation. A 13.52 inch observation was made at Atlantic 5SW on June 14, 1998, but it is likely that the observation covered more than a 24-hr period."
+"Iowa","All-Time Maximum 24-Hour Snowfall",24,"inches",19180420,19180420,"Lenox",134746,N,"State climatologist reports a greater 24-hr snow fall that spanned 2 observational days."
+"Iowa","All-Time Maximum Snow Depth",52,"inches",19690301,19690301,"Lake Park",134561,E1,
+"Iowa","All-Time Maximum Snow Depth",52,"inches",19690228,19690228,"Lake Park",134561,E1,"Possible issues with reporting of snow depth at Lake Park. State climatologist is investigating."
+"Kansas","All-Time Maximum Temperature",121,"degrees F",19360724,19360724,"Alton",140201,E1,
+"Kansas","All-Time Maximum Temperature",121,"degrees F",19360718,19360718,"Fredonia",142894,E1,
+"Kansas","All-Time Minimum Temperature",-40,"degrees F",19050213,19050213,"Lebanon",144598,E,
+"Kansas","All-Time Greatest 24-Hour Precipitation",,"inches",19691231,19691231,"Under Review",,,"The previously posted value of 13.53\" was discovered to be in error. An investigation to determine the legitimate record is underway."
+"Kansas","Maximum Annual Precipitation Total",75.33,"inches",20190101,20191231,"Farlington 0.8 NNE",CoCoRaHS KS-CR-10,NS,
+"Kansas","All-Time Maximum 24-Hour Snowfall",30,"inches",20090328,20090328,"Pratt",146549,NSA,"The 30.0 inches observed at Pratt in 2009 was formally evaluated by the State Climate Extremes Committee."
+"Kansas","All-Time Maximum Snow Depth",40,"inches",19181231,19181231,"Syracuse",148038,N,
+"Kansas","Hail: Weight",1.65,"pounds",19700903,19700903,"Coffeyville",,EA,"The Coffeyville hailstone held the record for the nation's largest hailstone until June 22, 2003, when the record was eclipsed by a hailstone that fell near Aurora, Nebraska. It also held the U.S. record for all-time heaviest hailstone until July 23, 2010 when a heavier hailstone fell in Vivian, SD."
+"Kansas","Hail: Circumference",17.6,"inches",19700903,19700903,"Coffeyville",,EA,"The Coffeyville hailstone held the record for the nation's largest hailstone until June 22, 2003, when the record was eclipsed by a hailstone that fell near Aurora, Nebraska. It also held the U.S. record for all-time heaviest hailstone until July 23, 2010 when a heavier hailstone fell in Vivian, SD."
+"Kansas","Hail: Diameter",7.75,"inches",20100915,20100915,"Wichita",,NSA,"The Wichita hailstone would have set the National record for diameter but for the the record for the Vivian, SD hailstone that fell two months prior."
+"Kentucky","All-Time Maximum Temperature",114,"degrees F",19300728,19300728,"Greensburg",153430,E,
+"Kentucky","All-Time Minimum Temperature",-37,"degrees F",19940119,19940119,"Shelbyville",157324,E,
+"Kentucky","All-Time Greatest 24-Hour Precipitation",10.48,"inches",19970301,19970301,"Louisville",154958,NSA,"Historical value was examined retroactively and found to be valid and exceeded prior stated record."
+"Kentucky","All-Time Maximum 24-Hour Snowfall",26,"inches",19420303,19420303,"Simers",157396,N,
+"Kentucky","All-Time Maximum Snow Depth",31,"inches",19780120,19780120,"La Grange",154595,E,
+"Kentucky","Maximum Wind Gust",120.1,"mph",20211210,20211210,"Princeton 2 SE",Kentucky Mesonet,SA,"An EF-4 tornado caused extensive damage along a 163-mile long path in western Kentucky on December 10, 2021. Two Kentucky Mesonet sites were situated along the path of the tornado with one station measuring a wind gust of 120.1 mph, exceeding the previous record of 100.8 mph set at Kentucky Mesonet station Murray 1W (MRRY) on April 26, 2011."
+"Louisiana","All-Time Maximum Temperature",114,"degrees F",19360810,19360810,"Plain Dealing 4W",167344,E,
+"Louisiana","All-Time Minimum Temperature",-16,"degrees F",18990213,18990213,"Minden",166244,E,
+"Louisiana","All-Time Greatest 24-Hour Precipitation",22,"inches",19620828,19620829,"Hackberry",163979,E,
+"Louisiana","All-Time Maximum 24-Hour Snowfall",13,"inches",19600213,19600213,"Colfax",161941,NA,"The 13.0 inches observed at Colfax on February 13, 1960 is the greatest 24-hr snowfall that could be confirmed for Louisiana. It is likely that higher 24-hr amounts fell during the Valentine's Day blizzard of February 13-15, 1895 (in which storm totals of 14 to 24 inches were prevalent from Galveston, TX to Lake Charles, LA) as well as the blizzard of December 21-22, 1929. However, all reported snow falls from these events appear to be accumulated amounts from which daily totals cannot be reliably extracted."
+"Louisiana","All-Time Maximum Snow Depth",24,"inches",18950215,18950215,"Rayne",167678,N,
+"Maine","All-Time Maximum Temperature",105,"degrees F",19110710,19110710,"North Bridgton",175875,E1,
+"Maine","All-Time Maximum Temperature",105,"degrees F",19110704,19110704,"North Bridgton",175875,E1,
+"Maine","All-Time Minimum Temperature",-50,"degrees F",20090116,20090116,"Big Black River (nr. Saint Pamphile, PQ)",USGS BBRM1,NS,"The record minimum temperature of -50 degrees F was observed by an automated observing station operated by the US Geological Survey (USGS) at a river gage on the Big Black River near the Canadian border. The data are archived by the USGS, and the validity of the observation was confirmed by the State Climate Extremes Committee. The value also ties observations in NH and VT for the coldest temperature recorded for the Northeast region of the United States."
+"Maine","All-Time Greatest 24-Hour Precipitation",13.32,"inches",19961020,19961021,"Portland",14764,E,
+"Maine","All-Time Maximum 24-Hour Snowfall",40,"inches",19621230,19621230,"Orono",176430,N,
+"Maine","All-Time Maximum Snow Depth",84,"inches",19690228,19690228,"Farmington",172765,E,
+"Maryland","All-Time Maximum Temperature",109,"degrees F",19360710,19360710,"Cumberland",182280,E3,
+"Maryland","All-Time Maximum Temperature",109,"degrees F",19360710,19360710,"Frederick",183348,E3,
+"Maryland","All-Time Maximum Temperature",109,"degrees F",19180807,19180807,"Cumberland",182280,E3,
+"Maryland","All-Time Maximum Temperature",109,"degrees F",19180806,19180806,"Cumberland",182280,E3,
+"Maryland","All-Time Maximum Temperature",109,"degrees F",19180806,19180806,"Keedysville",184780,E3,
+"Maryland","All-Time Maximum Temperature",109,"degrees F",18980703,18980703,"Boettcherville",180960,E3,
+"Maryland","All-Time Minimum Temperature",-40,"degrees F",19120113,19120113,"Oakland",186620,E,
+"Maryland","All-Time Greatest 24-Hour Precipitation",14.75,"inches",18970726,18970727,"Jewell (nr. Friendship)",184650,E,
+"Maryland","Maximum Annual Precipitation Total",84.56,"inches",20180101,20181231,"Catonsville 1.2 NW",CoCoRaHS MD-BL-39,NS,""
+"Maryland","All-Time Maximum 24-Hour Snowfall",31,"inches",19420329,19420329,"Clear Spring 1ENE",181890,E,
+"Maryland","All-Time Maximum Snow Depth",54,"inches",19930315,19930315,"Frostburg 2",183415,E,
+"Massachusetts","All-Time Maximum Temperature",107,"degrees F",19750802,19750802,"Chester",191430,E2,
+"Massachusetts","All-Time Maximum Temperature",107,"degrees F",19750802,19750802,"New Bedford",195246,E2,
+"Massachusetts","All-Time Minimum Temperature",-35,"degrees F",19810112,19810112,"Chester",191430,E1,
+"Massachusetts","All-Time Minimum Temperature",-35,"degrees F",19430215,19430215,"Coldbrook",191589,E1,
+"Massachusetts","All-Time Minimum Temperature",-35,"degrees F",19040105,19040105,"Taunton",198367,E1,
+"Massachusetts","All-Time Greatest 24-Hour Precipitation",18.15,"inches",19550818,19550819,"Westfield",199191,E,
+"Massachusetts","All-Time Maximum 24-Hour Snowfall",29,"inches",19970401,19970401,"Natick",195175,E,
+"Massachusetts","All-Time Maximum Snow Depth",62,"inches",19960113,19960113,"Great Barrington Airport",193208,E,
+"Michigan","All-Time Maximum Temperature",112,"degrees F",19360713,19360713,"Mio",205531,E2,
+"Michigan","All-Time Maximum Temperature",112,"degrees F",19360713,19360713,"Stanwood",207834,E2,
+"Michigan","All-Time Minimum Temperature",-51,"degrees F",19340209,19340209,"Vanderbilt",208417,E,
+"Michigan","All-Time Greatest 24-Hour Precipitation",12.92,"inches",20190720,20190720,"6E Fountain",N/A,NSA,"The 2019 value replaced the previous record of 9.78 inches, set at Bloomingdale on 31 August 1914. View the report associated with this investigation."
+"Michigan","All-Time Maximum 24-Hour Snowfall",32,"inches",19851202,19851202,"Herman",203744,N,
+"Michigan","All-Time Maximum Snow Depth",117,"inches",19480131,19480131,"Eagle Harbor",202332,N1,
+"Michigan","All-Time Maximum Snow Depth",117,"inches",19480130,19480130,"Eagle Harbor",202332,N1,
+"Michigan","All-Time Maximum Snow Depth",117,"inches",19480129,19480129,"Eagle Harbor",202332,N1,
+"Michigan","All-Time Maximum Snow Depth",117,"inches",19480128,19480128,"Eagle Harbor",202332,N1,
+"Michigan","All-Time Maximum Snow Depth",117,"inches",19480127,19480127,"Eagle Harbor",202332,N1,
+"Minnesota","All-Time Maximum Temperature",115,"degrees F",19170729,19170729,"Beardsley",210541,N1A,"The previously reported record of 114 degrees F was reported by observer at Moorhead on 7\/6\/1936 as 113.6 degrees F (unlikely to be accurate given the 1-degree precision of the mercury in glass thermometer in use at the time), and rounded to 114 degrees F. The extreme reported above for Beardsley was observed as 114.5 degrees F and has been rounded to 115 degrees F per current rounding practices."
+"Minnesota","All-Time Minimum Temperature",-60,"degrees F",19960202,19960202,"Tower",218311,E,
+"Minnesota","All-Time Greatest 24-Hour Precipitation",15.1,"inches",20070819,20070819,"Hokah 1S",213808,NS,
+"Minnesota","All-Time Maximum 24-Hour Snowfall",36,"inches",19940107,19940107,"Wolf Ridge ELC",219134,E,
+"Minnesota","All-Time Maximum Snow Depth",88,"inches",19690221,19690221,"Meadowlands 1NNW",215298,E1,
+"Minnesota","All-Time Maximum Snow Depth",88,"inches",19690220,19690220,"Meadowlands 1NNW",215298,E1,
+"Minnesota","All-Time Maximum Snow Depth",88,"inches",19690219,19690219,"Meadowlands 1NNW",215298,E1,
+"Minnesota","All-Time Maximum Snow Depth",88,"inches",19690218,19690218,"Meadowlands 1NNW",215298,E1,
+"Minnesota","All-Time Maximum Snow Depth",88,"inches",19690217,19690217,"Meadowlands 1NNW",215298,E1,
+"Minnesota","All-Time Maximum Snow Depth",88,"inches",19690216,19690216,"Meadowlands 1NNW",215298,E1,
+"Minnesota","All-Time Maximum Snow Depth",88,"inches",19690215,19690215,"Meadowlands 1NNW",215298,E1,
+"Mississippi","All-Time Maximum Temperature",115,"degrees F",19300729,19300729,"Holly Springs 2N",224168,E,
+"Mississippi","All-Time Minimum Temperature",-19,"degrees F",19660130,19660130,"Corinth",221962,E,
+"Mississippi","All-Time Greatest 24-Hour Precipitation",15.68,"inches",19680709,19680709,"Columbus",221870,E,
+"Mississippi","All-Time Maximum 24-Hour Snowfall",18,"inches",19631223,19631223,"Mt. Pleasant",226084,N2,
+"Mississippi","All-Time Maximum 24-Hour Snowfall",18,"inches",19631223,19631223,"Mt. Tunica 2",228998,N2,
+"Mississippi","All-Time Maximum Snow Depth",18,"inches",19631223,19631223,"Mount Pleasant",226084,N,
+"Missouri","All-Time Maximum Temperature",118,"degrees F",19540714,19540714,"Union",238515,E3,
+"Missouri","All-Time Maximum Temperature",118,"degrees F",19540714,19540714,"Warsaw",238733,E3,
+"Missouri","All-Time Minimum Temperature",-40,"degrees F",19050213,19050213,"Warsaw",238733,E,
+"Missouri","All-Time Greatest 24-Hour Precipitation",18.18,"inches",19650720,19650720,"Edgerton",232474,E,
+"Missouri","All-Time Maximum 24-Hour Snowfall",24,"inches",19790225,19790225,"Cape Girardeau",03935,N3,
+"Missouri","All-Time Maximum 24-Hour Snowfall",24,"inches",19790225,19790225,"Jackson",234226,N3,
+"Missouri","All-Time Maximum Snow Depth",36,"inches",19600320,19600320,"Union",238515,E1,
+"Missouri","All-Time Maximum Snow Depth",36,"inches",19600319,19600319,"Union",238515,E1,
+"Montana","All-Time Maximum Temperature",117,"degrees F",19370705,19370705,"Medicine Lake",245572,E1,
+"Montana","All-Time Maximum Temperature",117,"degrees F",18930720,18930720,"Glendive",243581,E1,
+"Montana","All-Time Minimum Temperature",-70,"degrees F",19540120,19540120,"Rogers Pass",247156,E,
+"Montana","All-Time Greatest 24-Hour Precipitation",11.5,"inches",19210620,19210620,"Circle (Springbrook)",247796,E,
+"Montana","All-Time Maximum 24-Hour Snowfall",48,"inches",20031227,20031227,"Millegan 14SE",245712,E1,
+"Montana","All-Time Maximum 24-Hour Snowfall",48,"inches",19820529,19820529,"Shonkin 7S 14SE",247540,E1,
+"Montana","All-Time Maximum Snow Depth",147,"inches",19750218,19750218,"Summit",247978,E,
+"Nebraska","All-Time Maximum Temperature",118,"degrees F",19360724,19360724,"Minden",255565,E1,
+"Nebraska","All-Time Maximum Temperature",118,"degrees F",19360717,19360717,"Hartington",253630,E1,
+"Nebraska","All-Time Maximum Temperature",118,"degrees F",19340715,19340715,"Geneva",253175,E1,
+"Nebraska","All-Time Minimum Temperature",-47,"degrees F",19891222,19891222,"Oshkosh",256385,E1,
+"Nebraska","All-Time Minimum Temperature",-47,"degrees F",18990212,18990212,"Bridgeport",251145,E1,
+"Nebraska","All-Time Greatest 24-Hour Precipitation",13.15,"inches",19500708,19500709,"York",259510,E,
+"Nebraska","All-Time Maximum 24-Hour Snowfall",27,"inches",20061221,20061221,"Dalton",252145,N,
+"Nebraska","All-Time Maximum Snow Depth",44,"inches",19360216,19360216,"Fremont",253050,N,
+"Nebraska","Hail: Weight",1.34,"pounds",20030622,20030622,"Aurora",,EA,"The Aurora hailstone holds the title of the largest circumference hail stone observed to have fallen in the United States. The Vivian, SD hailstone of 7\/23\/2010 is the largest in diameter and in weight. The weight listed here for the Aurora hail stone is the weight of the fractured remnant of the stone (Knight and Knight, 2005) and thus is likely a sizable underestimate of the true stone weight."
+"Nebraska","Hail: Circumference",18.75,"inches",20030622,20030622,"Aurora",,EA,"The Aurora hailstone holds the title of the largest circumference hail stone observed to have fallen in the United States. The Vivian, SD hailstone of 7\/23\/2010 is the largest in diameter and in weight. The weight listed here for the Aurora hail stone is the weight of the fractured remnant of the stone (Knight and Knight, 2005) and thus is likely a sizable underestimate of the true stone weight."
+"Nebraska","Hail: Diameter",7,"inches",20030622,20030622,"Aurora",,EA,"The Aurora hailstone holds the title of the largest circumference hail stone observed to have fallen in the United States. The Vivian, SD hailstone of 7\/23\/2010 is the largest in diameter and in weight. The weight listed here for the Aurora hail stone is the weight of the fractured remnant of the stone (Knight and Knight, 2005) and thus is likely a sizable underestimate of the true stone weight."
+"Nevada","All-Time Maximum Temperature",125,"degrees F",19940629,19940629,"Laughlin",264480,E,
+"Nevada","All-Time Minimum Temperature",-50,"degrees F",19370108,19370108,"San Jacinto",267284,E,
+"Nevada","All-Time Greatest 24-Hour Precipitation",7.78,"inches",20041020,20041020,"Mount Charleston",265400,N,
+"Nevada","All-Time Maximum 24-Hour Snowfall",36,"inches",19961221,19961221,"Dagget Pass",262119,N,
+"Nevada","All-Time Maximum Snow Depth",271,"inches",19110313,19110313,"Spooners Station",267710,N1,
+"Nevada","All-Time Maximum Snow Depth",271,"inches",19110312,19110312,"Spooners Station",267710,N1,
+"New Hampshire","All-Time Maximum Temperature",106,"degrees F",19110704,19110704,"Nashua",275712,E,
+"New Hampshire","All-Time Minimum Temperature",-50,"degrees F",18850122,18850122,"Mount Washington",14755,NA,"Value of -50 degrees F exceeds the previously reported all-time minimum temperature extreme of -46 on 1\/8\/1968. The -50 degrees F is not yet present in NCDC's digital data files but exists on observation forms and publications in NCDC archives. The value ties with Vermont and Maine for coldest temperature recorded in the Northeast region of the United States."
+"New Hampshire","All-Time Greatest 24-Hour Precipitation",11.07,"inches",19961020,19961021,"Mount Washington",14755,N,
+"New Hampshire","All-Time Maximum 24-Hour Snowfall",49.3,"inches",19690225,19690225,"Mount Washington",14755,N,
+"New Hampshire","All-Time Maximum Snow Depth",164,"inches",19690227,19690227,"Pinkham Notch",276818,N,
+"New Jersey","All-Time Maximum Temperature",110,"degrees F",19360710,19360710,"Runyon",287825,E,
+"New Jersey","All-Time Minimum Temperature",-34,"degrees F",19040105,19040105,"River Vale",287620,E,
+"New Jersey","All-Time Greatest 24-Hour Precipitation",14.81,"inches",19390819,19390820,"Tuckerton",288899,E,
+"New Jersey","Maximum Annual Precipitation Total",90.65,"inches",20110101,20111231,"WEST MILFORD TWP 3.2 NE",CoCoRaHS NJ-PS-16,NA,"This record value was initially evaluated and scientifically validated by the SCEC in 2012. The non-archival status of the station's network was a concern at the time, delaying the approval. This concern is now moot, as the observing system is ingested into a permanent Federal archive."
+"New Jersey","All-Time Maximum 24-Hour Snowfall",29.7,"inches",19471226,19471227,"Long Branch",284987,NSA,"The previous record of 32 inches, reported at Charlotteburg Reservoir (COOP ID: 287332) on 14 December 1915, was determined to have fallen during a span of time exceeding 24 hours, per notes indicated on the observer form, and was subsequently invalidated and replaced by the next-largest known 24-hour snowfall value located in Long Branch."
+"New Jersey","All-Time Maximum Snow Depth",52,"inches",19610205,19610205,"Canistear Reservoir",281327,E,
+"New Mexico","All-Time Maximum Temperature",122,"degrees F",19940627,19940627,"Waste Isolation Pilot Plant (nr. Loving)",299569,E,
+"New Mexico","All-Time Minimum Temperature",-50,"degrees F",19510201,19510201,"Gavilan",293505,E,
+"New Mexico","All-Time Greatest 24-Hour Precipitation",11.28,"inches",19550518,19550519,"Lake Maloya",294742,E,
+"New Mexico","All-Time Maximum 24-Hour Snowfall",41,"inches",19640203,19640203,"Kelly Ranch",294461,N,
+"New Mexico","All-Time Maximum Snow Depth",96,"inches",19410315,19410315,"Lee's Ranch",294903,N,
+"New York","All-Time Maximum Temperature",108,"degrees F",19260722,19260722,"Troy",308597,E,
+"New York","All-Time Minimum Temperature",-52,"degrees F",19790218,19790218,"Old Forge",306184,E1,
+"New York","All-Time Greatest 24-Hour Precipitation",13.57,"inches",20140812,20140813,"Long Island MacArthur Airport",04781,,
+"New York","All-Time Maximum 24-Hour Snowfall",50,"inches",19660201,19660201,"Camden",301110,NA,"An unofficial but widely accepted 24-hr snow fall observation of 54 inches was recorded at Barnes Corner (Tug Hill Plateau) in January 1976. In February 2020, the 50-inch value at Camden in 1966, already present in the record, but flagged as invalid, was determined by the SCEC to be valid. It was established as the record, replacing the previously accepted record of 49 inches, at Watertown on 14-15 November 1900. View the report from the associated investigation."
+"New York","All-Time Maximum Snow Depth",119,"inches",19430420,19430420,"Whiteface Mountain",309383,N,"A snow depth value of 130 inches at Richland on 5 March 1947 was reviewed and rejected as a potential record. View the report associated with this investigation."
+"North Carolina","All-Time Maximum Temperature",110,"degrees F",19830821,19830821,"Fayetteville",93740,E,
+"North Carolina","All-Time Minimum Temperature",-34,"degrees F",19850121,19850121,"Mount Mitchell",315923,E,
+"North Carolina","All-Time Greatest 24-Hour Precipitation",22.22,"inches",19160715,19160716,"Altapass",310160,E,
+"North Carolina","Maximum Annual Precipitation Total",139.94,"inches",20180101,20181231,"Mt. Mitchell",315923,NS,""
+"North Carolina","All-Time Maximum 24-Hour Snowfall",36,"inches",19930313,19930313,"Mt. Mitchell",315923,N,"In May 2016, the SCEC considered a reported 41-inch snowfall event observed in January 2016 at Mt. Mitchell (GHCN-D identifier USC00315923). The value was determined to be invalid, and the existing record of 36 inches set in March 1993 was thereby upheld."
+"North Carolina","All-Time Maximum Snow Depth",50,"inches",19930314,19930314,"Mount Mitchell",315923,N1,
+"North Carolina","All-Time Maximum Snow Depth",50,"inches",19420306,19420306,"Mount Mitchell",315921,N1,
+"North Carolina","All-Time Maximum Snow Depth",50,"inches",19420305,19420305,"Mount Mitchell",315921,N1,
+"North Carolina","All-Time Maximum Snow Depth",50,"inches",19420304,19420304,"Mount Mitchell",315921,N1,
+"North Carolina","All-Time Maximum Snow Depth",50,"inches",19420303,19420303,"Mount Mitchell",315921,N1,
+"North Dakota","All-Time Maximum Temperature",121,"degrees F",19360706,19360706,"Steele",328366,E,
+"North Dakota","All-Time Minimum Temperature",-60,"degrees F",19360215,19360215,"Parshall",326867,E,
+"North Dakota","All-Time Greatest 24-Hour Precipitation",8.1,"inches",19750629,19750629,"Litchville",325230,E,
+"North Dakota","All-Time Maximum 24-Hour Snowfall",27,"inches",19840427,19840427,"Minot Airport",24013,N,
+"North Dakota","All-Time Maximum Snow Depth",65,"inches",18970312,18970312,"Berlin",320720,N1,
+"North Dakota","All-Time Maximum Snow Depth",65,"inches",18970311,18970311,"Berlin",320720,N1,
+"Ohio","All-Time Maximum Temperature",113,"degrees F",19340721,19340721,"Gallipolis (near)",333029,E,
+"Ohio","All-Time Minimum Temperature",-39,"degrees F",18990210,18990210,"Milligan",335310,E,
+"Ohio","All-Time Greatest 24-Hour Precipitation",10.75,"inches",19950807,19950808,"Lockington Dam (nr. Sidney, Shelby Co. OH)",,EA,"Value is published in the August 1995 Storm Data publication and is from a reliable gauge. Higher 24-hr amounts may have occurred in conjunction with a line of severe storms that impacted Northwest Ohio on July 4-5, 1969."
+"Ohio","All-Time Maximum 24-Hour Snowfall",30,"inches",19010420,19010420,"Warren 3S",338769,N,
+"Ohio","All-Time Maximum Snow Depth",47,"inches",19961114,19961114,"Chardon",331458,N,
+"Oklahoma","All-Time Maximum Temperature",120,"degrees F",19360812,19360812,"Altus",340179,E1A,
+"Oklahoma","All-Time Maximum Temperature",120,"degrees F",19360810,19360810,"Poteau",347246,E1A,
+"Oklahoma","All-Time Maximum Temperature",120,"degrees F",19360719,19360719,"Altus",340179,E1A,
+"Oklahoma","All-Time Maximum Temperature",120,"degrees F",19360718,19360718,"Alva",340193,E1A,"A 120 degrees F observed at Tipton observed by an Oklahoma Mesonet automated weather station on June 27, 1994 was originally approved. However, this value was later withdrawn after problems with the instrumentation configuration were discovered several years later."
+"Oklahoma","All-Time Minimum Temperature",-31,"degrees F",20110210,20110210,"Nowata",NOWA (OK Mesonet),NSA,
+"Oklahoma","All-Time Greatest 24-Hour Precipitation",15.68,"inches",19731011,19731011,"Enid",342912,E,
+"Oklahoma","All-Time Maximum 24-Hour Snowfall",27,"inches",20110209,20110210,"Spavinaw",348380,NSA,"The 24-hr snow fall at Woodward and Freedom fell in conjunction with a spring blizzard that set snow fall records in Oklahoma, Kansas and Texas. The State Climate Extremes Committee verified the validity of the observations at Woodward and Freedom."
+"Oklahoma","All-Time Maximum Snow Depth",36,"inches",19710222,19710222,"Buffalo 2SSW",341243,N,
+"Oklahoma","Hail: Diameter",6,"inches",20110523,20110523,"2 mi. N of Gotebo",,NSA,"The state hailstone record is understood to be the largest documented stone, though larger stones have likely fallen during territorial and state history. Other reports from prior dates did not provide sufficient documentary evidence."
+"Oklahoma","Maximum Wind Gust",150.8,"mph",20110524,20110524,"El Reno",ELRE (OK Mesonet),NSA,
+"Oregon","All-Time Maximum Temperature",119,"degrees F",20210629,20210629,"Moody Farms Agrimet",USBR Mesonet,SA,"A heat wave across the Pacific Northwest in late June 2021 broke a number of daily maximum temperature records. In addition, an Oregon SCEC determined that two reliable stations, Pelton Dam (COOP ID: 356532) and a U.S. Bureau of Reclamation mesonet station, Moody Farms Agriment, each tied the state maximum temperature record of 119 degrees F.. In February 2022, the Prineville, OR, (COOP ID: 356883) value of 119 degrees F, that occurred on July 29, 1898, was invalidated and removed from the SCEC records table."
+"Oregon","All-Time Maximum Temperature",119,"degrees F",20210629,20210629,"Pelton Dam",356532,SA,"A heat wave across the Pacific Northwest in late June 2021 broke a number of daily maximum temperature records. In addition, an Oregon SCEC determined that two reliable stations, Pelton Dam (COOP ID: 356532) and a U.S. Bureau of Reclamation mesonet station, Moody Farms Agriment, each tied the state maximum temperature record of 119 degrees F.. In February 2022, the Prineville, OR, (COOP ID: 356883) value of 119 degrees F, that occurred on July 29, 1898, was invalidated and removed from the SCEC records table."
+"Oregon","All-Time Maximum Temperature",119,"degrees F",18980810,18980810,"Pendleton",356541,E1,
+"Oregon","All-Time Minimum Temperature",-54,"degrees F",19330210,19330210,"Seneca",357675,E1,
+"Oregon","All-Time Minimum Temperature",-54,"degrees F",19330209,19330209,"Ukiah",358726,E1,
+"Oregon","All-Time Greatest 24-Hour Precipitation",11.77,"inches",20061106,20061106,"Nehalem 9NE",355971,N,
+"Oregon","All-Time Maximum 24-Hour Snowfall",47,"inches",19800109,19800109,"Hood River ES",354003,N,
+"Oregon","All-Time Maximum Snow Depth",252,"inches",19830403,19830403,"Crater Lake NP HQ",351946,N,
+"Pennsylvania","All-Time Maximum Temperature",111,"degrees F",19360710,19360710,"Phoenixville",366927,E1,
+"Pennsylvania","All-Time Maximum Temperature",111,"degrees F",19360709,19360709,"Phoenixville",366927,E1,
+"Pennsylvania","All-Time Minimum Temperature",-42,"degrees F",19040105,19040105,"Smethport",368190,E,
+"Pennsylvania","All-Time Greatest 24-Hour Precipitation",13.5,"inches",19720622,19720622,"York 3SSW Pump Stn",369933,NA,"Arguably the greatest 24-hour rainfall on record outside of the tropics occurred around Smethport, PA on July 17, 1942. A post-event survey by the Weather Bureau provided a widely accepted maximum storm rainfall of 34.50 inches within a 12 hour period, of which an estimated 30.60 inches fell in just 6 hours. However, the greatest observed 24-hr rain fall for Pennsylvania occurred in conjunction with Hurricane Agnes in 1972."
+"Pennsylvania","All-Time Maximum 24-Hour Snowfall",41,"inches",19580215,19580216,"Lakeville 1NNE",364733,NSA,"Lakeville 1NNE was the official name for this station when the record was set during 1958. The name of the station when the record was identified in 2021 was Lakeville 2NNE, which is reflected in the station metadata. This Lakeville value replaced the previously reported record of 38 inches, set at Morgantown (COOP ID: 365956) on 20 March 1958. More details are available in the report associated with this investigation."
+"Pennsylvania","Monthly Maximum Snowfall",117.8,"inches",20100201,20100228,"Laurel Summit",364839,NSA,"A potential monthly snowfall record of 120.9 inches was reported for December 2017 at Erie International Airport. This value was examined by the SCEC during the following year. The SCEC found that observational practices associated with the Erie total reduced confidence in the value. The SCEC determined by a 4-1 vote that the existing Laurel Summit record be upheld.View Erie Dec 2017 reportView Laurel Summit Feb 2010 report"
+"Pennsylvania","All-Time Maximum Snow Depth",60,"inches",19580323,19580323,"Gouldsboro",363394,N1,
+"Pennsylvania","All-Time Maximum Snow Depth",60,"inches",19580322,19580322,"Gouldsboro",363394,N1,
+"Puerto Rico","All-Time Maximum Temperature",104,"degrees F",19960702,19960702,"Mona Island",666258,NA,"Listed record value of 104 degrees F is being reviewed. If found to be invalid, the next highest temperature is 100 degrees F on August 21, 2003 at Ponce 4E."
+"Puerto Rico","All-Time Minimum Temperature",40,"degrees F",19850327,19850327,"Rincon",668126,N1,
+"Puerto Rico","All-Time Minimum Temperature",40,"degrees F",19660124,19660124,"San Sebastian",668881,N1,
+"Puerto Rico","All-Time Minimum Temperature",40,"degrees F",19110309,19110309,"Aibonito",660158,N1,
+"Puerto Rico","All-Time Greatest 24-Hour Precipitation",23.75,"inches",19851007,19851007,"Toro Negro Forest",669432,NA,"Value was observed during the passage of Tropical Storm Isabel (October 4-8, 1985)."
+"Puerto Rico","All-Time Maximum 24-Hour Snowfall",,"inches",19691231,19691231,"N/A",,E,
+"Puerto Rico","All-Time Maximum Snow Depth",,"inches",19691231,19691231,"N/A",,E,
+"Rhode Island","All-Time Maximum Temperature",104,"degrees F",19750802,19750802,"Providence",14765,E,
+"Rhode Island","All-Time Minimum Temperature",-28,"degrees F",19420111,19420111,"Wood River Junction",379327,NA,"Previously reported record of -25 degrees F at Greene on February 5, 1996 could not be verified. Source is unknown and no documentation could be found. Value is exceeded by the currently reported record at Wood River Junction."
+"Rhode Island","All-Time Greatest 24-Hour Precipitation",12.13,"inches",19320916,19320917,"Westerly",378911,E,
+"Rhode Island","All-Time Maximum 24-Hour Snowfall",30,"inches",19780207,19780207,"Woonsocket",379423,E,
+"Rhode Island","All-Time Maximum Snow Depth",42,"inches",19780207,19780207,"North Foster 1E",375270,E,
+"South Carolina","All-Time Maximum Temperature",113,"degrees F",20120629,20120629,"Columbia Univ of South Carolina",381944,NS,
+"South Carolina","All-Time Minimum Temperature",-19,"degrees F",19850121,19850121,"Caesar's Head",381256,E,
+"South Carolina","All-Time Greatest 24-Hour Precipitation",14.8,"inches",19990916,19990916,"Myrtle Beach",386153,NA,"Previously listed record of 17.00 inches at Antreville on Augst 27, 1995 (Tropical Storm Jerry) was incongruent with other observations in the area, and all reliable evidence pointed to a much smaller 24-hr value. The 14.80 inches observed at Myrtle Beach on September 16, 1999 is a result of Hurricane Floyd."
+"South Carolina","Maximum Annual Precipitation Total",123.45,"inches",20180101,20181231,"Jocassee 8 NW",384581,NSA,"An annual value of 125.62 inches for the calendar year 2018 was reported by the Greenville Water Company. This annual value was considered plausible by the SCEC. However, the station was not at the time a member of an organized and reporting observation network, and therefore not considered for the record. View the associated report."
+"South Carolina","All-Time Maximum 24-Hour Snowfall",24,"inches",19730209,19730210,"Rimini 2SSW",387313,N,
+"South Carolina","All-Time Maximum Snow Depth",29,"inches",19690218,19690218,"Ceasars Head",381256,N,
+"South Dakota","All-Time Maximum Temperature",120,"degrees F",20060715,20060715,"Fort Pierre",393076,N1,
+"South Dakota","All-Time Maximum Temperature",120,"degrees F",19360705,19360705,"Gann Valley",393217,N1,
+"South Dakota","All-Time Minimum Temperature",-58,"degrees F",19360217,19360217,"McIntosh",395381,E,
+"South Dakota","All-Time Greatest 24-Hour Precipitation",8.74,"inches",20070506,20070506,"Groton",393456,NSA,"The reported value was evaluated by the State Climate Extremes Committee. Greater amounts have fallen in 24 hours or less across SD, but were not observed by reliable precipitation measurement gauges. A survey after the June 9, 1972 Black Hills flood indicated rainfall up to 15 inches in 6 hours may have occurred near Keystone. On June 13-14, 1976 up to 10 inches of rain may have fallen over the Black Hills, while on June 14, 1996 a near-stationary thunderstorm produced an estimated 14 inches of rain between Sturgis and Hereford. On August 17, 2007 an estimated 10.5 inches of rain fell west of Hermosa. Slow moving thunderstorms on May 8, 2018 produced large storm totals across parts of SD including an unofficial 24-hour report measuring 13.15 inches northwest of Long Lake."
+"South Dakota","All-Time Maximum 24-Hour Snowfall",52,"inches",19730314,19730314,"Lead",394834,N,
+"South Dakota","All-Time Maximum Snow Depth",73,"inches",19980301,19980301,"Lead",394834,E,
+"South Dakota","Hail: Weight",1.938,"pounds",20100723,20100723,"Vivian",,A,"The reported value has been evaluated by the National Climate Extremes Committee and found to be accurate. This hail stone is the heaviest and greatest diameter stone on record for the United States. When initially collected after the storm, the stone had a reported diameter of 11 inches, but deteriorated in the observer's freezer owing to a loss of power after the storm. The Aurora, NE hail stone remains the largest circumference stone on record for the United States."
+"South Dakota","Hail: Circumference",18.625,"inches",20100723,20100723,"Vivian",,A,"The reported value has been evaluated by the National Climate Extremes Committee and found to be accurate. This hail stone is the heaviest and greatest diameter stone on record for the United States. When initially collected after the storm, the stone had a reported diameter of 11 inches, but deteriorated in the observer's freezer owing to a loss of power after the storm. The Aurora, NE hail stone remains the largest circumference stone on record for the United States."
+"South Dakota","Hail: Diameter",8,"inches",20100723,20100723,"Vivian",,A,"The reported value has been evaluated by the National Climate Extremes Committee and found to be accurate. This hail stone is the heaviest and greatest diameter stone on record for the United States. When initially collected after the storm, the stone had a reported diameter of 11 inches, but deteriorated in the observer's freezer owing to a loss of power after the storm. The Aurora, NE hail stone remains the largest circumference stone on record for the United States."
+"Tennessee","All-Time Maximum Temperature",113,"degrees F",19300809,19300809,"Perryville",407099,E1,
+"Tennessee","All-Time Maximum Temperature",113,"degrees F",19300729,19300729,"Perryville",407099,E1,
+"Tennessee","All-Time Minimum Temperature",-32,"degrees F",19171230,19171230,"Mountain City",406287,E,
+"Tennessee","All-Time Greatest 24-Hour Precipitation",20.73,"inches",20210821,20210821,"McEwen",N/A,NSA,"The 2021 value replaced the previous record of 13.60 inches, set at Milan (COOP ID: 406012) on 13 September 1982."
+"Tennessee","All-Time Maximum 24-Hour Snowfall",30,"inches",19930314,19930314,"Mount Leconte",406328,N,
+"Tennessee","All-Time Maximum Snow Depth",63,"inches",19930315,19930315,"Mount Leconte",406328,N1,
+"Tennessee","All-Time Maximum Snow Depth",63,"inches",19930314,19930314,"Mount Leconte",406328,N1,
+"Texas","All-Time Maximum Temperature",120,"degrees F",19940628,19940628,"Monahans",415999,E1,
+"Texas","All-Time Maximum Temperature",120,"degrees F",19360812,19360812,"Seymour",418221,E1,
+"Texas","All-Time Minimum Temperature",-23,"degrees F",19330208,19330208,"Seminole",418201,E1,
+"Texas","All-Time Minimum Temperature",-23,"degrees F",18990212,18990212,"Tulia 6NE",419176,SA1,"Historical value at Tulia 6NE became available upon digitization and update of previously paper-bound data. It was examined retroactively, found, to be valid and tied the prior stated record."
+"Texas","All-Time Greatest 24-Hour Precipitation",42,"inches",19790725,19790726,"Alvin",,EA,"The 24-hour rainfall of 42.00 inches was reported from an observer 8.5 miles west of Alvin, Texas between 7 AM July 25th and 7 AM July 26th, 1979 in conjunction with Tropical Storm Claudette. Observer reported that the 10-inch gauge was overflowing at his 1 AM reading, and so the 42 inches may be underreported by at least 3 inches. This 42.00-in rainfall exceeds any observed 24-hr precipitation value for the United States. 43.00 inches of rain in this storm is acknowledged as the United States national record 24-hr precipitation amount, but that value appears to have been estimated in a post-storm survey and is therefore not listed here."
+"Texas","All-Time Maximum 24-Hour Snowfall",26,"inches",19291220,19291221,"Hillsboro",414182,NSA,"Historical value was examined retroactively and found to be valid and exceeded prior stated record. The previously recognized record of 25\", observed in March 2009 at Follett (GHCN-D identifier USC00413225) is documented (here)."
+"Texas","All-Time Maximum Snow Depth",33,"inches",19560207,19560207,"Vega 2NW",419330,N,
+"Texas","Hail: Weight",1.26,"pounds",20210428,20210428,"1 SSW Hondo",N/A,SA,""
+"Texas","Hail: Circumference",19.73,"inches",20210428,20210428,"1 SSW Hondo",N/A,SA,""
+"Texas","Hail: Diameter",6.416,"inches",20210428,20210428,"1 SSW Hondo",N/A,SA,""
+"Texas","Hail: Volume",40.239,"cubic inches",20210428,20210428,"1 SSW Hondo",N/A,SA,""
+"Utah","All-Time Maximum Temperature",117,"degrees F",20210710,20210710,"St. George",427516,ESA,"A 118 degrees F temperature was observed on July 4, 2007 at a Remote Automatic Weather Station (RAWS) located near the Utah Welcome Center on I-15 south of St. George. However, a decision on the validity of this value could not be determined by the State Climate Extremes Committee. View 2021 Record Report"
+"Utah","All-Time Maximum Temperature",117,"degrees F",19850705,19850705,"St. George",427516,EA,"A 118 degrees F temperature was observed on July 4, 2007 at a Remote Automatic Weather Station (RAWS) located near the Utah Welcome Center on I-15 south of St. George. However, a decision on the validity of this value could not be determined by the State Climate Extremes Committee. View 2021 Record Report"
+"Utah","All-Time Minimum Temperature",-50,"degrees F",19130105,19130105,"Strawberry Tunnel (East)",422319,NA,"The previously reported record of -69 degrees F set at Peters Sinks on Feb 1, 1985 is widely considered an accurate observation, but no information concerning the observation or the station could be identified, and the value is heavily affected by the local terrain. The -50 degrees F at Strawberry Tunnel is the coldest temperature observation that can be verified from publicly available observations at established observation stations in Utah."
+"Utah","All-Time Greatest 24-Hour Precipitation",5.08,"inches",19630201,19630201,"Deer Creek Dam",422057,NA,"A value of 8.40 inches was reported as part of a post-flash flood survey conducted by the National Weather Service at North Odgen on September 7-8, 1991."
+"Utah","All-Time Maximum 24-Hour Snowfall",38,"inches",19821202,19821202,"Alta",420072,NA,"55.5 inches of snow fall in 24 hours was reported at the Alta Guard Station in Alta, UT on January 5-6, 1991, but information concerning this observation or the station is unavailable and cannot be considered official."
+"Utah","All-Time Maximum Snow Depth",179,"inches",19580407,19580407,"Alta",420072,N1A,"236 inches of snow depth were observed at the Collins snow study observation site at Alta, UT on May 19, 1983, but information concerning this observation or the station is unavailable and cannot be considered official."
+"Utah","All-Time Maximum Snow Depth",179,"inches",19580405,19580405,"Alta",420072,N1A,"236 inches of snow depth were observed at the Collins snow study observation site at Alta, UT on May 19, 1983, but information concerning this observation or the station is unavailable and cannot be considered official."
+"Vermont","All-Time Maximum Temperature",107,"degrees F",19120707,19120707,"Vernon",438600,N,
+"Vermont","All-Time Minimum Temperature",-50,"degrees F",19331230,19331230,"Bloomfield",430690,E,"The -50 degrees F minimum temperature ties with values from NH and ME as the all-time coldest temperature for the Northeast region of the United States."
+"Vermont","All-Time Greatest 24-Hour Precipitation",9.92,"inches",19990917,19990917,"Mt. Mansfield",435416,N,
+"Vermont","All-Time Maximum 24-Hour Snowfall",42,"inches",19950205,19950205,"Jay Peak",434189,N,"Two potential 24-hour snowfall records of 44.8 inches at Peru (COOP ID: 436335) and 42.0 inches at Landgrove 1.1 NNE (CoCoRaHS ID: VT-BN-3) over a 24-hour period on 16-17 December 2020 were examined by the SCEC during the following year. The SCEC found that observational practices associated with the measurements reduced confidence in these values. The SCEC determined by two separate 5-0 votes that the existing Jay Peak record be upheld."
+"Vermont","All-Time Maximum Snow Depth",149,"inches",19690402,19690402,"Mt. Mansfield",435416,N,
+"Vermont","Hail: Weight",0.13125,"pounds",20090716,20090716,"Westford",,NSA,"A large hailstone fell in the backyard of a National Weather Service employee and was brought before the State Climate Extremes Committee for review. After a search of historical hail reports, it was determined that the hail stone was the largest ever measured for the state of Vermont. As a result of this investigation, a set of hail collection and measurement guidelines was proposed by the State Climate Extremes Committee."
+"Vermont","Hail: Circumference",6.8,"inches",20090716,20090716,"Westford",,NSA,"A large hailstone fell in the backyard of a National Weather Service employee and was brought before the State Climate Extremes Committee for review. After a search of historical hail reports, it was determined that the hail stone was the largest ever measured for the state of Vermont. As a result of this investigation, a set of hail collection and measurement guidelines was proposed by the State Climate Extremes Committee."
+"Vermont","Hail: Diameter",3.3,"inches",20090716,20090716,"Westford",,NSA,"A large hailstone fell in the backyard of a National Weather Service employee and was brought before the State Climate Extremes Committee for review. After a search of historical hail reports, it was determined that the hail stone was the largest ever measured for the state of Vermont. As a result of this investigation, a set of hail collection and measurement guidelines was proposed by the State Climate Extremes Committee."
+"Virgin Islands (U.S.)","All-Time Maximum Temperature",99,"degrees F",19960623,19960623,"Charlotte Amalie (St. Thomas)",11640,N1A,
+"Virgin Islands (U.S.)","All-Time Maximum Temperature",99,"degrees F",19940804,19940804,"Charlotte Amalie (St. Thomas)",11640,N1A,
+"Virgin Islands (U.S.)","All-Time Maximum Temperature",99,"degrees F",19880731,19880731,"Cruz Bay (St. John)",671980,N1A,
+"Virgin Islands (U.S.)","All-Time Minimum Temperature",51,"degrees F",19540131,19540131,"Anna's Hope (St. Croix)",670260,NA,
+"Virgin Islands (U.S.)","All-Time Greatest 24-Hour Precipitation",20,"inches",19790904,19790904,"Anna's Hope (SC)",670260,NA,
+"Virgin Islands (U.S.)","All-Time Maximum 24-Hour Snowfall",,"inches",19691231,19691231,"N/A",,EA,
+"Virgin Islands (U.S.)","All-Time Maximum Snow Depth",,"inches",19691231,19691231,"N/A",,EA,
+"Virginia","All-Time Maximum Temperature",110,"degrees F",19540715,19540715,"Balcony Falls",440411,E1,
+"Virginia","All-Time Maximum Temperature",110,"degrees F",19000707,19000707,"Columbia",441929,E1,
+"Virginia","All-Time Maximum Temperature",110,"degrees F",19000705,19000705,"Columbia",441929,E1,
+"Virginia","All-Time Minimum Temperature",-30,"degrees F",19850121,19850121,"Mountain Lake Biological Station",445828,E,"The date for the existing record of -30 degrees F at Mountain Lake Biological Station was incorrect by one day. Date listed is the correct observation date."
+"Virginia","All-Time Greatest 24-Hour Precipitation",14.28,"inches",19990916,19990916,"Williamsburg 2N",449151,NA,"Storm Data (Vol. 11, No. 8) reports associated with Hurricane Camille (August 1969) indicate \"... substantiated amounts up to 31 inches ... falling mainly in Nelson and adjacent counties ....\" The 14.28 inches at Williamsburg fell in conjunction with Hurricane Floyd."
+"Virginia","Maximum Annual Precipitation Total",94.43,"inches",20180101,20181231,"Sperryville",447985,NSA,"View the report associated with the Sperryville record. Before the Sperryville value came to light, two smaller annual totals that nevertheless exceeded the previously understood unofficial record were investigated. These were values of 89.90\" at Montebello Fish Hatchery and 87.33\" at Roanoke 5.8 SW (CoCoRaHS). These were determined not to be valid statewide precipitation records. A separate report detailing these values is available here."
+"Virginia","All-Time Maximum 24-Hour Snowfall",33.5,"inches",19940303,19940303,"Luray 5E",445096,E,
+"Virginia","All-Time Maximum Snow Depth",47,"inches",19960107,19960107,"Big Meadows",440720,E,
+"Washington","All-Time Maximum Temperature",120,"degrees F",20210629,20210629,"Hanford",DOE Mesonet H100F,NSA,"A heat wave across the Pacific Northwest in late June 2021 broke a number of daily maximum temperature records. In addition, an Washington SCEC determined that a Department of Energy mesonet station, Hanford H100F, reached 120 degrees F, exceeding the previous record of 118 degrees F set at Ice Harbor Dam (COOP ID: 453993) on August 5, 1961 and Wahluke (COOP ID: 458903) on July 24, 1928."
+"Washington","All-Time Minimum Temperature",-48,"degrees F",19681230,19681230,"Mazama",455133,E2,
+"Washington","All-Time Minimum Temperature",-48,"degrees F",19681230,19681230,"Winthrop",459376,E2,
+"Washington","All-Time Greatest 24-Hour Precipitation",14.26,"inches",19861123,19861124,"Mt. Mitchell #2",455668,E,
+"Washington","All-Time Maximum 24-Hour Snowfall",65,"inches",19940224,19940224,"Crystal Mountain Ski Resort",NWAC,NA,"The observation of 65.0 inches of snow that fell in 24 hours at the Crystal Mountain ski resort on February 24, 1994 is archived at the Northwest Weather and Avalanche Center. The greatest 24-hr snow fall observed at an official NOAA weather station in Washington is 52.0 inches observed at Winthrop on January 21, 1935."
+"Washington","All-Time Maximum Snow Depth",367,"inches",19560310,19560310,"Rainier Paradise RS",456898,N1,
+"Washington","All-Time Maximum Snow Depth",367,"inches",19560309,19560309,"Rainier Paradise RS",456898,N1,
+"West Virginia","All-Time Maximum Temperature",112,"degrees F",19360710,19360710,"Martinsburg",13734,E1,
+"West Virginia","All-Time Maximum Temperature",112,"degrees F",19300804,19300804,"Moorefield",466163,E1,
+"West Virginia","All-Time Minimum Temperature",-37,"degrees F",19171230,19171230,"Lewisburg",465224,E,
+"West Virginia","All-Time Greatest 24-Hour Precipitation",12.02,"inches",19490618,19490618,"Brushy Run",461204,NA,"It is widely accepted that the greatest precipitation in a 24 hr period for West Virginia was an estimated 19.00 inches that reportedly fell in 2 hrs and 10 minutes on July 18, 1889 at Rockport during a cloudburst that caused Tygart Creek to rise 22 feet in one hour. However, this value has not been confirmed."
+"West Virginia","Maximum Annual Precipitation Total",96.99,"inches",20180101,20181231,"Parsons 3SE (Hendricks)",USC00466867,NS,""
+"West Virginia","All-Time Maximum 24-Hour Snowfall",35,"inches",19980127,19980128,"Flat Top",463072,NA,"The 35.0 inches of snowfall reported at Flat Top fell from 10 AM on January 27th to 10 AM on January 28th, 1998. Observation-time values for each day are 30.0 and 8.0 inches, respectively."
+"West Virginia","Monthly Maximum Snowfall",158.2,"inches",20100201,20100228,"Bayard",460527,NA,""
+"West Virginia","All-Time Maximum Snow Depth",62,"inches",19780308,19780308,"Snowshoe",468308,N,
+"Wisconsin","All-Time Maximum Temperature",114,"degrees F",19360713,19360713,"Wisconsin Dells",479319,E,
+"Wisconsin","All-Time Minimum Temperature",-55,"degrees F",19960204,19960204,"Couderay",471847,E1,
+"Wisconsin","All-Time Minimum Temperature",-55,"degrees F",19960202,19960202,"Couderay",471847,E1,
+"Wisconsin","All-Time Greatest 24-Hour Precipitation",11.72,"inches",19460624,19460624,"Mellen",475286,E,
+"Wisconsin","All-Time Maximum 24-Hour Snowfall",26,"inches",19041226,19041227,"Neillsville",475808,E,
+"Wisconsin","All-Time Maximum Snow Depth",83,"inches",19330406,19330406,"Flambeau Reservoir",472814,N,
+"Wyoming","All-Time Maximum Temperature",115,"degrees F",19880715,19880715,"Diversion Dam",482595,N1,
+"Wyoming","All-Time Maximum Temperature",115,"degrees F",19830808,19830808,"Basin",480540,N1,
+"Wyoming","All-Time Minimum Temperature",-66,"degrees F",19330209,19330209,"Riverside Ranger Stn. (Yellowstone NP)",,EA,"Original observation of -66 degrees F at Riverside Ranger Station on February 9, 1933 is maintained in Department of Interior archives."
+"Wyoming","All-Time Greatest 24-Hour Precipitation",6.06,"inches",19850801,19850801,"Cheyenne",24018,E,
+"Wyoming","All-Time Maximum 24-Hour Snowfall",49,"inches",19240321,19240321,"Hunter Station",484770,N,
+"Wyoming","All-Time Maximum Snow Depth",128,"inches",19430204,19430204,"Grassy Lake Dam",484050,N,
