@@ -30,7 +30,7 @@
 
 **Analytical Methods**: We will complete two main analyses to address our research questions: 
 1. Prediction: Predict the number of honeybees and level of honey production in a given state and/or region
-   1. Methods: Regression (Ridge, LASSO, linear, polynomial); Regression Trees
+   1. Methods: Regression (Ridge, LASSO); Regression Trees
 2. Simulation: Simulate random events that affect our prediction model – e.g., pesticide drift, severe weather
    1. Methods: stochastic sampling of continuous distributions, Monte Carlo method for discrete events
 
