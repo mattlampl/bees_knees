@@ -17,6 +17,7 @@
 ### 04 - Data
 *Cleaned datasets used for ML and Simulation models*
 
+---
 **Our question**: To what extent do factors such as the usage of various pesticides, rainfall, temperature, and more impact the number of honeybee colonies as well as honey yield? In modeling honeybee colony decline, can we effectively predict and simulate honeybee production in a given state and/or region? 
 
 
