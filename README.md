@@ -1,5 +1,6 @@
 # To Bee or Not To Bee
-![bee-png-image-honey-bee-11562849815d114tsqcdr](https://user-images.githubusercontent.com/13319538/206924052-e57d975b-4f14-4bf4-b17f-7ed465842212.png)
+![Apis_mellifera_Western_honey_bee](https://user-images.githubusercontent.com/13319538/206924122-beefe2c5-5185-4278-93f0-52ddfaaee572.jpg)
+
 
 ## How to navigate this repo:
 ### 01 - Data Cleaning and Feature Generation
