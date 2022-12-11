@@ -1,7 +1,5 @@
 # To Bee or Not To Bee
-
-![02ce7945c01a4d62f78e480ca9c51f00](https://user-images.githubusercontent.com/13319538/206923965-a94b5574-4430-4d06-b467-a95acbcf60b3.gif)
-
+![bee-png-image-honey-bee-11562849815d114tsqcdr](https://user-images.githubusercontent.com/13319538/206924052-e57d975b-4f14-4bf4-b17f-7ed465842212.png)
 
 ## How to navigate this repo:
 ### 01 - Data Cleaning and Feature Generation
