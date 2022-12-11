@@ -7,7 +7,7 @@
 ## How to navigate this repo:
 
 ### 01 - Data Cleaning and Feature Generation
-*All data cleaning, imputation, feature generation, and merging taks*
+*All data cleaning, imputation, feature generation, and merging tasks*
 
 ### 02 - ML and Simulation Models
 *ML modelling and Simulation tasks*
