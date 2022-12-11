@@ -1,5 +1,8 @@
 # To Bee or Not To Bee
 
+![02ce7945c01a4d62f78e480ca9c51f00](https://user-images.githubusercontent.com/13319538/206923965-a94b5574-4430-4d06-b467-a95acbcf60b3.gif)
+
+
 ## How to navigate this repo:
 ### 01 - Data Cleaning and Feature Generation
 *All data cleaning, imputation, feature generation, and merging taks*
