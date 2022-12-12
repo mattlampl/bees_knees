@@ -19,16 +19,18 @@ Data cleaning tasks to be run in this order:
 *ML modelling and Simulation tasks*
 
 Machine Learning and Simulation notebooks may be run in any order, however it is recommended that you run them as follows:
-   1. `Ridge_Lasso_States.ipynb`
-   2. `Ridge_Lasso_No_States.ipynb`
-   3. `Trees.ipynb`
-   4. `Simulation.ipynb`
+   1. `Ridge_Lasso_States.ipynb` *Ridge and Lasso Regression Models with state features*
+   2. `Ridge_Lasso_No_States.ipynb` *Ridge and Lasso Regression Models with no state features*
+   3. `Trees.ipynb` *Regession and XGB Tree mMdels*
+   4. `Simulation.ipynb` *Simulation Models*
 
 ### 03 - Report and Documentation
 *Final report, presentation, and any supporting documentation*
 
 ### 04 - Data
-*Cleaned datasets used for ML and Simulation models*
+   1. `Raw_Data` *Raw datasets*
+   2. `Final Data` *Cleaned datasets with engineered features used for ML and Simulation models*
+   3. `DataDictionary.xlsx` *An explanation of all data sources, and features used to generate our models*
 
 ---
 **Our question**: To what extent do factors such as the usage of various pesticides, rainfall, temperature, and more impact the number of honeybee colonies as well as honey yield? In modeling honeybee colony decline, can we effectively predict and simulate honeybee production in a given state and/or region? 
