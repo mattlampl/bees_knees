@@ -1,16 +1,25 @@
 # To Bee or Not To Bee
-**All cleaned data is already uploaded to this repo. You may skip the first step and move straight to `02 - ML and Simulation Models`**
 
 ![Apis_mellifera_Western_honey_bee](https://user-images.githubusercontent.com/13319538/206924122-beefe2c5-5185-4278-93f0-52ddfaaee572.jpg)
 
 
 ## How to navigate this repo:
+**All cleaned data is already uploaded to this repo. You may skip the first step and move straight to `02 - ML and Simulation Models`**
 
 ### 01 - Data Cleaning and Feature Generation
 *All data cleaning, imputation, feature generation, and merging tasks*
 
+Data cleaning tasks to be run in this order:
+   1. `APHIS_Cleaning.ipynb`
+   2. `Honey_Neonic_Cleaning.ipynb`
+   3. `Urbanicity_Air_Quality_Cleaning.ipynb`
+   4. `Final_Data_Merging.ipnyb`
+
 ### 02 - ML and Simulation Models
 *ML modelling and Simulation tasks*
+
+Machine Learning and Simulation notebooks may be run in any order, however it is recommended that you run them as follows:
+   1. 
 
 ### 03 - Report and Documentation
 *Final report, presentation, and any supporting documentation*
