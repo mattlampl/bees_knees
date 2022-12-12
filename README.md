@@ -1,7 +1,6 @@
 # To Bee or Not To Bee
 
-![Apis_mellifera_Western_honey_bee](https://user-images.githubusercontent.com/13319538/206924122-beefe2c5-5185-4278-93f0-52ddfaaee572.jpg)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/13319538/206924122-beefe2c5-5185-4278-93f0-52ddfaaee572.jpg" width="400"></p>
 
 ## How to navigate this repo:
 **All cleaned data is already uploaded to this repo. You may skip the first step and move straight to `02 - ML and Simulation Models`**
