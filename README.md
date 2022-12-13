@@ -17,7 +17,7 @@ Data cleaning tasks to be run in this order:
 ### 02 - ML and Simulation Models
 *ML modelling and Simulation tasks*
 
-Machine Learning and Simulation notebooks may be run in any order, however it is recommended that you run them as follows:
+Machine Learning and Simulation notebooks may be run in any order. However, it is recommended that you run them as follows:
    1. `Ridge_Lasso_States.ipynb` *Ridge and Lasso Regression Models with state features*
    2. `Ridge_Lasso_No_States.ipynb` *Ridge and Lasso Regression Models with no state features*
    3. `Trees.ipynb` *Regession and XGB Tree Models*
