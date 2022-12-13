@@ -5,6 +5,8 @@
 ## How to navigate this repo:
 **All cleaned data is already uploaded to this repo. You may skip the first step and move straight to `02 - ML and Simulation Models`**
 
+Before running any notebooks, ensure that you have the following python packages installed: `pandas, numpy, math, os, matplotlib.pyplot, seaborn, sklearn, xgboost`.
+
 ### 01 - Data Cleaning and Feature Generation
 *All data cleaning, imputation, feature generation, and merging tasks*
 
