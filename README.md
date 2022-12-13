@@ -13,7 +13,7 @@ Before running any notebooks, ensure that you have the following python packages
 Data cleaning tasks to be run in this order:
    1. `APHIS_Cleaning.ipynb`
    2. `Honey_Neonic_Cleaning.ipynb`
-   3. `Urbanicity_Air_Quality_Cleaning.ipynb`
+   3. `Urbanicity_Air_Quality_Cleaning.ipynb` *Make sure to unzip the '04 - Data/Raw_Data/Air Quality Data' folder in your copied repo before running this notebook
    4. `Final_Data_Merging.ipnyb`
 
 ### 02 - ML and Simulation Models
